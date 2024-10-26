@@ -50,11 +50,11 @@ My name is **Roberto Matilla**, and I am passionate about developing application
 
 ## MyGymLog Preview On Wear OS Devices 📸
 <div style="display: flex; justify-content: center; flex-wrap: wrap;">
-    <img src="https://github.com/RobertoMati/MyGymLogShowcase/blob/a9e95a40ab1ad0526cec5ffb31cbb99cdd5be889/ING0.png" alt="Descripción de la imagen" width="170" style="margin: 10px;"/>
-    <img src="https://github.com/RobertoMati/MyGymLogShowcase/blob/a9e95a40ab1ad0526cec5ffb31cbb99cdd5be889/ING1.png" alt="Descripción de la imagen" width="170" style="margin: 10px;"/>
-  <img src="https://github.com/RobertoMati/MyGymLogShowcase/blob/a9e95a40ab1ad0526cec5ffb31cbb99cdd5be889/ING2.png" alt="Descripción de la imagen" width="170" style="margin: 10px;"/>
-    <img src="https://github.com/RobertoMati/MyGymLogShowcase/blob/a9e95a40ab1ad0526cec5ffb31cbb99cdd5be889/ING3.png" alt="Descripción de la imagen" width="170" style="margin: 10px;"/>
-  <img src="https://github.com/RobertoMati/MyGymLogShowcase/blob/a9e95a40ab1ad0526cec5ffb31cbb99cdd5be889/ING4.png" alt="Descripción de la imagen" width="170" style="margin: 10px;"/>
+    <img src="https://github.com/RobertoMati/MyGymLogShowcase/blob/a9e95a40ab1ad0526cec5ffb31cbb99cdd5be889/ING0.png" alt="Descripción de la imagen" width="220" style="margin: 10px;"/>
+    <img src="https://github.com/RobertoMati/MyGymLogShowcase/blob/a9e95a40ab1ad0526cec5ffb31cbb99cdd5be889/ING1.png" alt="Descripción de la imagen" width="220" style="margin: 10px;"/>
+  <img src="https://github.com/RobertoMati/MyGymLogShowcase/blob/a9e95a40ab1ad0526cec5ffb31cbb99cdd5be889/ING2.png" alt="Descripción de la imagen" width="220" style="margin: 10px;"/>
+    <img src="https://github.com/RobertoMati/MyGymLogShowcase/blob/a9e95a40ab1ad0526cec5ffb31cbb99cdd5be889/ING3.png" alt="Descripción de la imagen" width="220" style="margin: 10px;"/>
+  <img src="https://github.com/RobertoMati/MyGymLogShowcase/blob/a9e95a40ab1ad0526cec5ffb31cbb99cdd5be889/ING4.png" alt="Descripción de la imagen" width="220" style="margin: 10px;"/>
 </div>
 
 ---
